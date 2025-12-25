@@ -88,7 +88,7 @@ const Hero: React.FC = () => {
             <div className="animate-float animate-breathing relative z-10">
               <div className="bg-white p-4 rounded-[2.5rem] shadow-[0_35px_60px_-15px_rgba(240,185,11,0.3)] border-4 border-binance/20 overflow-hidden group animate-shine">
                 <img 
-                  src="https://storage.googleapis.com/static.aistudio.google.com/content/ae627c51578f137b629c5462bc58a69882255866f8090f48f020478174a706da" 
+                  src="/logooo.png" 
                   alt="Merry Christmas Binance Mascot" 
                   className="w-full h-auto max-w-[450px] mx-auto rounded-[1.5rem] group-hover:scale-105 transition-transform duration-500 relative z-10"
                 />
