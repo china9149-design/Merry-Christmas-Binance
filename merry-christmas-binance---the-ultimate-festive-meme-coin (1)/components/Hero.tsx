@@ -74,7 +74,7 @@ const Hero: React.FC = () => {
 
             <div className="flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start">
               <a
-  href="https://four.meme/"
+  href="https://four.meme/token/0x9a3095adb340714e39ebd70d6e425209766e4444"
   target="_blank"
   rel="noopener noreferrer"
   className="
