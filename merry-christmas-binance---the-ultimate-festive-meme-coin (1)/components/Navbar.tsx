@@ -24,7 +24,7 @@ const Navbar: React.FC = () => {
         <div className="flex items-center gap-4">
           <div className="w-14 h-14 bg-white rounded-2xl flex items-center justify-center p-1 glow-yellow overflow-hidden border-2 border-binance shadow-lg transform rotate-[-2deg] hover:rotate-0 transition-transform cursor-pointer">
             <img 
-              src="/components/unnamed%20(67).jpg" 
+              src="merry-christmas-binance---the-ultimate-festive-meme-coin (1)/components/unnamed (67).jpg" 
               alt="Merry Christmas Binance Logo" 
               className="w-full h-full object-contain"
             />
