@@ -46,7 +46,7 @@ const Navbar: React.FC = () => {
             </a>
           ))}
           <a
-  href="https://dexscreener.com/bsc"
+  href="https://dexscreener.com/bsc/0x9a3095adb340714e39ebd70d6e425209766e4444:4meme"
   target="_blank"
   rel="noopener noreferrer"
   className="bg-binance hover:bg-binance-dark text-binance-black px-6 py-2 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 text-sm shadow-lg shadow-binance/20 inline-flex items-center justify-center"
