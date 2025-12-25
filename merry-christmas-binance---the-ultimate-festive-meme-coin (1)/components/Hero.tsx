@@ -77,14 +77,21 @@ const Hero: React.FC = () => {
                 BUY $MCHB NOW <span className="group-hover:translate-x-1 transition-transform">🥞</span>
               </button>
               <a
-  href="https://x.com/merry_binance"
+  href="https://twitter.com/merry_binance"
   target="_blank"
   rel="noopener noreferrer"
-  className="w-full sm:w-auto px-10 py-5 bg-white/5 hover:bg-white/10
-             text-white font-black text-lg rounded-2xl transition-all
-             flex items-center justify-center gap-2"
+  className="
+    w-full sm:w-auto px-10 py-5
+    bg-[#1DA1F2] hover:bg-[#1A91DA]
+    text-white font-black text-lg rounded-2xl
+    transition-all duration-300
+    flex items-center justify-center gap-3
+    shadow-[0_0_30px_rgba(29,161,242,0.6)]
+    hover:shadow-[0_0_45px_rgba(29,161,242,0.9)]
+    hover:scale-105
+  "
 >
-  TWITTER <span className="group-hover:scale-125 transition-transform">𝕏</span>
+  TWITTER <span className="text-xl">𝕏</span>
 </a>
             </div>
           </div>
