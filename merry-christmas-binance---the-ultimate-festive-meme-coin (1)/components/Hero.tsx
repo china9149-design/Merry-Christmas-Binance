@@ -73,9 +73,24 @@ const Hero: React.FC = () => {
             </div>
 
             <div className="flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start">
-              <button className="w-full sm:w-auto px-10 py-5 bg-binance hover:bg-binance-dark text-binance-black font-black text-lg rounded-2xl transition-all transform hover:scale-110 shadow-xl shadow-binance/25 flex items-center justify-center gap-3 group">
-                BUY $MCHB NOW <span className="group-hover:translate-x-1 transition-transform">🥞</span>
-              </button>
+              <a
+  href="https://four.meme/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="
+    w-full sm:w-auto px-10 py-5
+    bg-[#22c55e] hover:bg-[#16a34a]
+    text-black font-black text-lg rounded-2xl
+    transition-all duration-300
+    flex items-center justify-center gap-2
+    shadow-[0_0_30px_rgba(34,197,94,0.6)]
+    hover:shadow-[0_0_45px_rgba(34,197,94,0.9)]
+    hover:scale-105
+  "
+>
+  BUY $MCHB NOW
+  <span className="group-hover:translate-x-1 transition-transform">🪙</span>
+</a>
               <a
   href="https://twitter.com/merry_binance"
   target="_blank"
