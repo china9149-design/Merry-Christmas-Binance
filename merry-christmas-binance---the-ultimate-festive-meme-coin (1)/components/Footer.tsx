@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div className="flex items-center gap-2 mb-6">
              <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center p-0.5 glow-yellow overflow-hidden border-2 border-binance">
                 <img 
-                  src="https://storage.googleapis.com/static.aistudio.google.com/content/ae627c51578f137b629c5462bc58a69882255866f8090f48f020478174a706da" 
+                  src="/logoo.jpg" 
                   alt="Merry Christmas Binance Logo" 
                   className="w-full h-full object-cover scale-110"
                 />
