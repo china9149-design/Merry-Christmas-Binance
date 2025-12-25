@@ -89,7 +89,7 @@ const Hero: React.FC = () => {
   "
 >
   BUY $MCHB NOW
-  <span className="group-hover:translate-x-1 transition-transform">🪙</span>
+  <span className="group-hover:translate-x-1 transition-transform"></span>
 </a>
               <a
   href="https://twitter.com/merry_binance"
@@ -106,7 +106,7 @@ const Hero: React.FC = () => {
     hover:scale-105
   "
 >
-  TWITTER <span className="text-xl">𝕏</span>
+  TWITTER <span className="text-xl"></span>
 </a>
             </div>
           </div>
