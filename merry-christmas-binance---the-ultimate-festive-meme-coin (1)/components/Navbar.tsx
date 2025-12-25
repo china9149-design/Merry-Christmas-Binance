@@ -45,9 +45,15 @@ const Navbar: React.FC = () => {
               {link.name}
             </a>
           ))}
-          <button className="bg-binance hover:bg-binance-dark text-binance-black px-6 py-2 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 text-sm shadow-lg shadow-binance/20">
-            DEXSCREENER
-          </button>
+          <a
+  href="https://dexscreener.com/bsc"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-binance hover:bg-binance-dark text-binance-black px-6 py-2 rounded-full font-bold transition-all transform hover:scale-105 active:scale-95 text-sm shadow-lg shadow-binance/20 inline-flex items-center justify-center"
+>
+  DEXSCREENER
+</a>
+
         </div>
 
         <div className="md:hidden text-binance">
