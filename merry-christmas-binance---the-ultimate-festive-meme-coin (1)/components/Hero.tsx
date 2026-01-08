@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Hero: React.FC = () => {
-  const contractAddress = "NULLLLLLLLLLLLLLLLLLLLLL";
+  const contractAddress = "0xcfe866af31198271e659b534d15f2105908d4444";
 
   const handleCopy = () => {
     // Visual feedback for the copy action
