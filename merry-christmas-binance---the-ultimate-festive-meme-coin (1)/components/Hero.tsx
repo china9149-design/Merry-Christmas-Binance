@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Hero: React.FC = () => {
-  const contractAddress = "coming soon ";
+  const contractAddress = "NULLLLLLLLLLLLLLLLLLLLLL";
 
   const handleCopy = () => {
     // Visual feedback for the copy action
